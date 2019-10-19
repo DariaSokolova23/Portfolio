@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 1024px; 
+    margin: 0 auto;  
+    border: 2px solid #bebebe     
+}
+
+.name-block{
+    display: flex;
+    flex-direction: column;
+    text-align: center;    
+    
+}
+.foto{   
+    margin: 0 45%;    
+    width: 100px;
+    height: 100px;    
+    border-radius: 100%;
+}
+.git-logo{
+    width: 35px;
+    height: 35px;
+}
+.f-logo{
+    height: 35px;     
+}
+.education-block,.projects-block{
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#slides {
+    position: relative;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+ 
