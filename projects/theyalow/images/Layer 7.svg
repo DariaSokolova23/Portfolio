@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 212" width="1300" height="212">
+	<defs>
+		<image width="1300" height="212" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRQAAADUAQMAAADX+D24AAAAAXNSR0IB2cksfwAAAAZQTFRF6urq6urqiSW6fwAAAAJ0Uk5T/v/Rru6GAAAA5klEQVR4nO3OQQ0AIAwAsflXiwMw0QdLrgo6s8D93ulIdDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0ehodDQ6Gh2NjkZHo6PR0dhxXOAB3EUryNx2Ge8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="icon_area">
+		<use id="Layer 7" style="opacity: 0.4" href="#img1" x="0" y="0" />
+	</g>
+</svg>

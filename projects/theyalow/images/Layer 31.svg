@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1312 76" width="1312" height="76">
+	<defs>
+		<image width="1300" height="64" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRQAAABAAQMAAABRD2ntAAAAAXNSR0IB2cksfwAAAANQTFRFTExM/VxEzAAAACFJREFUeJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAvgwpAAAB7dl7cwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer">
+		<use id="Layer 31" href="#img1" x="6" y="9" />
+	</g>
+</svg>
